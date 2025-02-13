@@ -1,6 +1,6 @@
-# Boilerplate: Svelte 5 Auth w/Lucia + Google OAuth
+# Boilerplate: Svelte 5 SSR Auth w/Lucia + Google OAuth
 
-Boilerplate code for integrating autherization in SvelteKit 5 w/Email (Lucia) and Google OAuth.
+Boilerplate code for integrating SSR authorization in SvelteKit 5 w/Email (Lucia) and Google OAuth.
 
 Includes:
 - Shadcn-svelte for UI
